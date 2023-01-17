@@ -1,0 +1,31 @@
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar .links a:nth-child(1) {
+  color: white;
+  background-color: #b287a3;
+  border-radius: 8px;
+}
+.navbar .links a:nth-child(2) {
+  color: white;
+  background-color: #f7aef8;
+  border-radius: 8px;
+}
+.navbar .links a:nth-child(3) {
+  color: white;
+  background-color: #067bc2;
+  border-radius: 8px;
+}
