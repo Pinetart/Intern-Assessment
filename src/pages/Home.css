@@ -1,0 +1,9 @@
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+.button-div {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}

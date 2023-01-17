@@ -1,4 +1,4 @@
-import Text from "../components/Text";
+import Text from "../components/Text/Text";
 
 const Contact = () => {
   const contactText = `This is the Conact Page. Page is empty. Lorem ipsum dolor sit amet,

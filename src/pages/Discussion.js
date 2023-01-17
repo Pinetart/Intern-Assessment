@@ -1,4 +1,4 @@
-import Text from "../components/Text";
+import Text from "../components/Text/Text";
 
 const Discussion = () => {
   const discussionText = `This is the Dicussion Page. Page is empty. Sed ut perspiciatis unde omnis

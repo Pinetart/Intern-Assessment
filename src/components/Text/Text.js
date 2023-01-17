@@ -1,6 +1,8 @@
+import "./Text.css";
+
 const Text = ({ recievedText }) => {
   return (
-    <div>
+    <div className="height">
       <p>{recievedText}</p>
     </div>
   );
